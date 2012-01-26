@@ -1,0 +1,5 @@
+I wrote a script that get the ip address of a user and then uses that ip with an ip to location api to get the zip code of that user.
+
+getzip.cgi can be run on a browser as well as the console.
+
+getzip.py is for the console.
