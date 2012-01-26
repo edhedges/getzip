@@ -3,3 +3,7 @@ I wrote a script that get the ip address of a user and then uses that ip with an
 getzip.cgi can be run on a browser as well as the console.
 
 getzip.py is for the console.
+
+The scripts are documented so you can tell what each line of code does.
+
+Lastly but definitely not least, I want to recognize http://checkip.dyndns.org/ and http://freegeoip.net/ because without their data I wouldn't have been able to do this.
